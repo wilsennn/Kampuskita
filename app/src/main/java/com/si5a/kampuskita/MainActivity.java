@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         ft.replace(R.id.fl_container, varFragment);
         ft.commit();
     }
+    
 
 
     @Override
